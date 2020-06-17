@@ -6,7 +6,10 @@ const App = () => {
 
   return (
     <div>
+        <h2>Class</h2>
       <Input title="Seconds: "/>
+      <hr/>
+      <h2>Functional</h2>
       <TimeConvert/>
     </div>
   )

@@ -1,0 +1,18 @@
+@import "main.css";
+
+.mode-dark{
+    background-color: #333;
+    color: #fff;
+}
+.dark-mode-switch{
+    color: #f7d55d;
+}
+.btn-pink{
+    background-color: #00CCCC;
+    border-color: #00CCCC;
+
+}
+.btn-purple{
+    background-color: #8A4D76;
+    border-color: #8A4D76;
+}

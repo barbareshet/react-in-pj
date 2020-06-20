@@ -14,3 +14,4 @@ This repo will include solutions from the React in PJ course by Ynon Perek.
 ## Solutions list
 - person - lesson 4
 - counter - lesson 8
+- Dark Mode - coding challenge, based on [alexgurr](https://github.com/alexgurr/react-coding-challenges/tree/master/dark-mode)
